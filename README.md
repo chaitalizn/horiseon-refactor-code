@@ -6,23 +6,24 @@ Horiseon website codebase refactor to follow accessibility standards for search 
 ## Built With
 * HTML
 * CSS
-* Web Accessibility Standards
+* *Web Accessibility Standards*
 
-## Changes made to basecode
-* Included appropriate semantic HTML elements
-* Restructure HTML elements in logical structure 
-* Added best practice indentation and comments
-* Added alt attributes to Image tags
-* Placed heading attributes in sequential order 
-* Added descriptive title 
-* Fixed broken application links and included correct Id and Class where needed
-* Organized and updated CSS selectors and properties to follow semantic structure and to avoid repetition of code.
-* Added comments in CSS
+## Changes Made to Basecode
+1. Included appropriate semantic HTML elements
+2. Restructure HTML elements in logical structure 
+3. Added best practice indentation and comments
+4. Added alt attributes to Image tags
+5. Placed heading attributes in sequential order 
+6. Added descriptive title 
+7. Fixed broken application links and included correct Id and Class where needed
+8. Organized and updated CSS selectors and properties to follow semantic structure and to avoid repetition of code.
+9. Added comments in CSS
 
-## Screenspot of the final website 
+## Screencapture of the Final Website 
+![Screencapture after refactor](assets/images/screencapture-chaitalizn-github-io-horiseon-refactor-code.png)
 
 ## Website
-https://chaitalizn.github.io/horiseon-refactor-code/
+(https://chaitalizn.github.io/horiseon-refactor-code/)
 
 ## Acknowledgments
 Made with ❤️ by Horiseon
